@@ -1,1 +1,1 @@
-This is my ALX higher leve programming repository
+This is my ALX higher level programming repository
